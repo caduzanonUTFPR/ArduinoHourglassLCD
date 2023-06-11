@@ -25,4 +25,9 @@ Same behavior as Set Minutes, but deals with the value stored in the Seconds. De
 The default and main mode. This is where all the action takes place - "particles" fall from the top matrix to the bottom matrix, which are determined by the accelerometer reading. A set of functions is used to tell if the "particles" can move or not, allowing you to "lay" the hourglass sideways and see no movement. 
 
 ## Original "Inspiration":
-The original code comes from [this project](https://www.instructables.com/Arduino-Hourglass/)
+The original code comes from [this project](https://www.instructables.com/Arduino-Hourglass/). The main difference between that version and this one is the renaming of a few functions, the presence of the MPU6050 and the addition of the LCD display. 
+
+## To-Do:
+- [ ] Translate this README to Brazilian Portuguese
+- [ ] Translate the text shown in the LCD display and Serial prints to English
+- [ ] Check all three boxes when everything is done :D
