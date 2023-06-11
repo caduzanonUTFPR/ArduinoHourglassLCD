@@ -9,7 +9,7 @@
  - Passive buzzer (not needed for basic functionality).
 ## How to use:
 ### Necessary Arduino Libraries:
-In order to be able to compile the code, you will need to install the "LiquidCrystal", "Wire" and "MPU6050_tockn" libraries. The LedControl.h and Delay.h files are included in the folder, I advise you to download the entire folder and compile from there.
+In order to be able to compile the code, you will need to install the "LiquidCrystal", "Wire" and "MPU6050_tockn" libraries. The LedControl.h and Delay.h files are included in the folder, I advise you to download [the entire folder](/Ampulheta-V3-LCD/) and compile from there.
 ### Circuit connections:
 Here's a simplified diagram showing all the connections needed to get it working. Note that the buzzer is an optional part and can be removed.
 ![](/Diagrama-EN.jpg)
